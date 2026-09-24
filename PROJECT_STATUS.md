@@ -3,6 +3,10 @@
 ## Target
 Amit Gayer and Oz Shy (2016), “A Welfare Evaluation of Tying Strategies,” Research in Economics 70(4), 623–637.
 
+## Canonical workflow
+
+`research-paper-workflow` v2.5 @ `46d17bc4c1036955103224a5c0358a70edd2cb90` for all future stages. See `docs/WORKFLOW_V2_5_SYNC.md`. No rollback is required at Stage 0.
+
 ## Current stage
 **Stage 0 — Evidence Freeze**
 
